@@ -1,0 +1,2 @@
+# LoanDataAnalysis
+ build a model
